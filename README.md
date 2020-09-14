@@ -9,7 +9,7 @@
 ### Connect with me:
 
 [<img align="left" alt="Rahi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Rahi | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/github.svg" />][github]
+[<img align="left" alt="Rahi | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/facebook.svg" />][facebook]
 
 <br />
 
@@ -29,6 +29,6 @@
 ---
 
 [instagram]: https://www.instagram.com/_rahikhan_/
-[github]: https://github.com/rahikhan360
+[facebook]: https://www.facebook.com/profile.php?id=100045000194326
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=rahikhan360&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
