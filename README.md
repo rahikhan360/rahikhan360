@@ -2,9 +2,9 @@
 
 ## I'm a Self Taught Developer! 👨‍💻
 
--   🌱 I’m currently learning Javascript and everything about it 🤣
+-   🌱 I’m currently learning ReactJS and everything about it :))
 -   👯 I’m looking to collaborate with other developers
--   🥅 2020 Goals: Get a good grasp on JS and React
+-   🥅 2020 Goals: Get a good grasp on React and Gatsby
 
 ### Connect with me:
 
