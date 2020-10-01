@@ -1,4 +1,4 @@
-### Hi there, I'm Rahi 👋
+# Hi there, I'm Rahi 👋
 
 ## I'm a Self Taught Developer! 👨‍💻
 
