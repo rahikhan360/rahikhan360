@@ -1,12 +1,14 @@
+<p align="center">
 <img src="./logo.png" alt="banner"/>
+</p>
 
-## Hi there, I'm Rahi 👋
+### Hi there, I'm Rahi 👋
 
-### I am a self taught web developer from Dhaka, Bangladesh. I do a lot of things, and some of them you may even find interesting. 👨‍💻
+I am a self taught web developer from Dhaka, Bangladesh. I do a lot of things, and some of them you may even find interesting. 👨‍💻
 
 ---
 
-## Languages and Tools I use:
+### Languages and Tools I use:
 
 <p>
  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
@@ -26,7 +28,7 @@
 
 ---
 
-## What do I do?
+### What do I do?
 
 -   💻 I’m currently (and _constantly_) working on my personal website.
 -   💁🏼‍♂️ I’m currently learning about **PWA** and **Serverless architecture** :))
@@ -35,7 +37,7 @@
 
 ---
 
-## Hit me up!
+### Hit me up!
 
 I am open for collaborations, so if you find my work interesting feel free to hit me up! Even if you don't, hit me up anyway! Here is where you can find me:
 
@@ -44,7 +46,7 @@ I am open for collaborations, so if you find my work interesting feel free to hi
 
 ---
 
-## Github stats
+### Github stats
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=rahikhan360&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
