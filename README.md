@@ -50,7 +50,7 @@ I am open for collaborations, so if you find my work interesting feel free to hi
 
 ### Github stats:
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=rahikhan360&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=rahi-khan&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [instagram]: https://www.instagram.com/_rahikhan_/
 [facebook]: https://www.facebook.com/rahi.khan.7373/
