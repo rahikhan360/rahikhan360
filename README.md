@@ -2,9 +2,9 @@
 <img src="./logo.png" alt="banner"/>
 </p>
 
-### Hi there, I'm Rahi 👋
+# Hi there, I'm Rahi 👋
 
-I am a self taught **Front End Web Developer** from Dhaka, Bangladesh. I do a lot of things, and some of them you may even find interesting. 👨‍💻
+### I am a self taught **Front End Web Developer** from Dhaka, Bangladesh. I do a lot of things, and some of them you may even find interesting. 👨‍💻
 
 ---
 
