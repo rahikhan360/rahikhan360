@@ -2,7 +2,7 @@
 <img src="./logo.png" alt="banner"/>
 </p>
 
-# Hi there, I'm Rahi 👋
+# Hey there, I'm Rahi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
 
 ### I am a self taught **Front End Web Developer** from Dhaka, Bangladesh. I do a lot of things, and some of them you may even find interesting. 👨‍💻
 
