@@ -39,12 +39,12 @@
 
 ---
 
-### Hit me up!
+### Get in touch!
 
 I am open for collaborations, so if you find my work interesting feel free to hit me up! Even if you don't, hit me up anyway! Here is where you can find me:
 
 [<img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />][instagram]
-[<img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" />][facebook]
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />][linkedin]
 
 ---
 
@@ -53,7 +53,7 @@ I am open for collaborations, so if you find my work interesting feel free to hi
 [![My github stats](https://github-readme-stats.vercel.app/api?username=rahi-khan&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [instagram]: https://www.instagram.com/_rahikhan_/
-[facebook]: https://www.facebook.com/rahi.khan.7373/
+[linkedin]: https://www.linkedin.com/in/rahikhan/
 [react]: https://reactjs.org/
 [gatsby]: https://www.gatsbyjs.com/
 [nextjs]: https://nextjs.org/
