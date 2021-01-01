@@ -35,7 +35,7 @@
 -   💻 I’m currently (and _constantly_) working on my personal website.
 -   💁🏼‍♂️ I’m currently learning about **PWA** and **Serverless architecture** :))
 -   🤟🏼👊🏼 I’m looking forward to collaborate with other developers
--   🥅 2020 Goals: Get a good grasp on **React**, **Gatsby** and **NextJS**
+-   🥅 2021 Goals: Get a good grasp on **React**, **Gatsby** and **NextJS**
 
 ---
 
