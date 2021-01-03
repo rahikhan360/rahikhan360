@@ -2,9 +2,16 @@
 <img src="./logo.png" alt="banner"/>
 </p>
 
-# Hey there, I'm Rahi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
+<h1 align="center"> Hey there, I'm Rahi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> </h1>
 
-### I am a self taught **Front End Web Developer** from Dhaka, Bangladesh. I do a lot of things, and some of them you may even find interesting. 👨‍💻
+<h2 align="center"> I am a self taught <strong>Front End Web Developer</strong> from Dhaka, Bangladesh. I do a lot of things, and some of them you may even find interesting. 👨‍💻</h2>
+
+### What do I do?
+
+-   💻 I’m currently (and _constantly_) working on my personal website.
+-   💁🏼‍♂️ I’m currently learning about **PWA** and **Serverless architecture** :))
+-   🤟🏼👊🏼 I’m looking forward to collaborate with other developers
+-   🥅 2021 Goals: Get a good grasp on **React**, **Gatsby** and **NextJS**
 
 ---
 
@@ -27,15 +34,6 @@
 [<img alt="NPM" src="https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white&style=for-the-badge" />][npm]
 
 </p>
-
----
-
-### What do I do?
-
--   💻 I’m currently (and _constantly_) working on my personal website.
--   💁🏼‍♂️ I’m currently learning about **PWA** and **Serverless architecture** :))
--   🤟🏼👊🏼 I’m looking forward to collaborate with other developers
--   🥅 2021 Goals: Get a good grasp on **React**, **Gatsby** and **NextJS**
 
 ---
 
