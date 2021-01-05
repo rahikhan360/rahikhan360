@@ -1,7 +1,3 @@
-<p align="center">
-<img src="./logo.png" alt="banner"/>
-</p>
-
 <h1 align="center"> Hey there, I'm Rahi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> </h1>
 
 <h2 align="center"> I am a self taught <strong>Front End Web Developer</strong> from Dhaka, Bangladesh. I do a lot of things, and some of them you may even find interesting. 👨‍💻</h2>
@@ -12,6 +8,12 @@
 -   💁🏼‍♂️ I’m currently learning about **PWA** and **Serverless architecture** :))
 -   🤟🏼👊🏼 I’m looking forward to collaborate with other developers
 -   🥅 2021 Goals: Get a good grasp on **React**, **Gatsby** and **NextJS**
+
+---
+
+### Spotify Playing 🎧
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/31k55taoamks4lwa3sryv5sh6n4y)
 
 ---
 
@@ -34,6 +36,13 @@
 [<img alt="NPM" src="https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white&style=for-the-badge" />][npm]
 
 </p>
+
+---
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
