@@ -11,12 +11,6 @@
 
 ---
 
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem69.vercel.app/api/spotify)](https://open.spotify.com/user/31k55taoamks4lwa3sryv5sh6n4y)
-
----
-
 ### Languages and Tools I use:
 
 <p>
@@ -39,6 +33,12 @@
 
 ---
 
+### 🎧 Spotify Playing 
+
+[![Spotify](https://novatorem69.vercel.app/api/spotify)](https://open.spotify.com/user/31k55taoamks4lwa3sryv5sh6n4y)
+
+---
+
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -51,9 +51,8 @@
 
 ### ⚡ Recent Activity
 
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
