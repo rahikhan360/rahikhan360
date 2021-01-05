@@ -51,6 +51,77 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-81-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 34 Contributions in the Year 2021
+ > 
+> 📦 63.7 kB Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 49 Public Repositories 
+ > 
+> 🔑 1 Private Repository 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    7 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.15% 
+🌆 Daytime    37 commits     ██████░░░░░░░░░░░░░░░░░░░   27.21% 
+🌃 Evening    46 commits     ████████░░░░░░░░░░░░░░░░░   33.82% 
+🌙 Night      46 commits     ████████░░░░░░░░░░░░░░░░░   33.82%
+
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday       20 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.71% 
+Tuesday      31 commits     █████░░░░░░░░░░░░░░░░░░░░   22.79% 
+Wednesday    11 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.09% 
+Thursday     11 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.09% 
+Friday       23 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.91% 
+Saturday     7 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.15% 
+Sunday       33 commits     ██████░░░░░░░░░░░░░░░░░░░   24.26%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Dhaka
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               12 repos            ██████████████░░░░░░░░░░░   57.14% 
+HTML                     6 repos             ███████░░░░░░░░░░░░░░░░░░   28.57% 
+CSS                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/rahi-khan/rahi-khan/master/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
 
 ---
