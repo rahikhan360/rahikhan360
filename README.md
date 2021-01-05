@@ -13,7 +13,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/31k55taoamks4lwa3sryv5sh6n4y)
+[![Spotify](https://novatorem69.vercel.app/api/spotify)](https://open.spotify.com/user/31k55taoamks4lwa3sryv5sh6n4y)
 
 ---
 
@@ -42,9 +42,18 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 1 - 100DaysOfCode](https://rahikhan.hashnode.dev/day-1-100daysofcode)
-- [100DaysOfCode challenge init 🚀](https://rahikhan.hashnode.dev/100daysofcode-challenge-init)
+
+-   [Day 1 - 100DaysOfCode](https://rahikhan.hashnode.dev/day-1-100daysofcode)
+-   [100DaysOfCode challenge init 🚀](https://rahikhan.hashnode.dev/100daysofcode-challenge-init)
 <!-- BLOG-POST-LIST:END -->
+
+---
+
+### ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
 
 ---
 
