@@ -145,19 +145,19 @@ I am open for collaborations, so if you find my work interesting feel free to hi
 [![My github stats](https://github-readme-stats.vercel.app/api?username=rahi-khan&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [discord]: https://discord.com/users/316244785621106691
-[instagram]: https://www.instagram.com/_rahikhan_/
+[instagram]: https://www.instagram.com/_rahikhan_
 [twitter]: https://twitter.com/rahikhan_dev
-[linkedin]: https://www.linkedin.com/in/rahikhan/
-[react]: https://reactjs.org/
-[gatsby]: https://www.gatsbyjs.com/
-[nextjs]: https://nextjs.org/
+[linkedin]: https://www.linkedin.com/in/rahikhan
+[react]: https://reactjs.org
+[gatsby]: https://www.gatsbyjs.com
+[nextjs]: https://nextjs.org
 [javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [html]: https://developer.mozilla.org/en-US/docs/Web/HTML
 [css]: https://developer.mozilla.org/en-US/docs/Web/CSS
-[sass]: https://sass-lang.com/
-[graphql]: https://graphql.org/
-[firebase]: https://firebase.google.com/
-[git]: https://git-scm.com/
-[github]: https://github.com/
-[visual studio code]: https://code.visualstudio.com/
-[npm]: https://www.npmjs.com/
+[sass]: https://sass-lang.com
+[graphql]: https://graphql.org
+[firebase]: https://firebase.google.com
+[git]: https://git-scm.com
+[github]: https://github.com
+[visual studio code]: https://code.visualstudio.com
+[npm]: https://www.npmjs.com
