@@ -10,17 +10,18 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           # You'll need to setup a personal token in your secrets.
-          token: ${{ secrets.GH_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           # GITHUB_TOKEN is a special auto-generated token used for commits
-          committer_token: ${{ secrets.GH_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
 
           # Options
           user: rahi-khan
           template: classic
-          base: activity, community
+          base: activity, community, repositories, metadata
           config_timezone: Asia/Dhaka
           plugin_followup: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
+          plugin_languages: yes
           plugin_tweets: yes
           plugin_tweets_limit: 2
