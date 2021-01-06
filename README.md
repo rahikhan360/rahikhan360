@@ -49,6 +49,10 @@
 
 ---
 
+![Metrics](https://metrics.lecoq.io/rahi-khan?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&tweets=1&tweets.limit=2&config.timezone=Asia%2FDhaka)
+
+---
+
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-201-blue)
 
