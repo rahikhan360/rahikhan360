@@ -17,7 +17,7 @@ jobs:
           # Options
           user: rahi-khan
           template: classic
-          base: activity, community, repositories, metadata
+          base: activity, community
           config_timezone: Asia/Dhaka
           plugin_followup: yes
           plugin_isocalendar: yes
