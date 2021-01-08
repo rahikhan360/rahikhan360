@@ -50,7 +50,7 @@
 
 ---
 
-![Metrics](https://metrics.lecoq.io/rahi-khan?template=classic&base.header=0&tweets=1&languages=1&isocalendar=1&followup=1&isocalendar.duration=half-year&tweets.limit=2&config.timezone=Asia%2FDhaka)
+![Metrics](https://metrics.lecoq.io/rahi-khan?template=classic&base.header=0&languages=1&tweets=1&followup=1&isocalendar=1&isocalendar.duration=half-year&tweets.limit=2&config.timezone=Asia%2FDhaka)
 
 ---
 
