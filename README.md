@@ -9,7 +9,7 @@
 -   👊🏼 I’m looking to collaborate on **any frontend project**
 -   📝 I regularly write articles on [https://rahikhan.hashnode.dev/](https://rahikhan.hashnode.dev/)
 -   💬 Ask me about **React, Gatsby, UI/UX**
--   📫 How to reach me **rahikhan360@gmail.com**
+-   📫 How to reach me: <a href="mailto:rahikhan360@gmail.com">Mail</a> | [Twitter](https://twitter.com/rahikhan_dev) | [Linkedin](https://www.linkedin.com/in/rahikhan/) | [Instagram](https://www.instagram.com/_rahikhan_)
 -   ⚡ Fun fact **I stutter while talking**
 -   🥅 2021 Goals: Get a good grasp on **Gatsby**, **NextJS** and **Serverless Architechture(BaaS)**
 
@@ -150,7 +150,13 @@ I am open for collaborations, so if you find my work interesting feel free to hi
 
 ### Github stats:
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahi-khan&show_icons=true&locale=en&layout=compact&theme=radical" alt="rahi-khan" /></p>
+
 [![My github stats](https://github-readme-stats.vercel.app/api?username=rahi-khan&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahi-khan&theme=radical" alt="rahi-khan" /></p>
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rahikhan)](https://github.com/anuraghazra/github-readme-stats)
 
 [discord]: https://discord.com/users/316244785621106691
 [instagram]: https://www.instagram.com/_rahikhan_
