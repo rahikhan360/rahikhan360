@@ -4,14 +4,14 @@
 
 ### What do I do?
 
--  #### 🔭 I’m currently(and _constantly_) working on **my Personal Website**
--  #### 🌱 I’m currently learning **Gatsby.js** and **Serverless Architechture(BaaS)**
--  #### 👊🏼 I’m looking to collaborate on **any frontend project**
--  #### 📝 I regularly write articles on [https://rahikhan.hashnode.dev/](https://rahikhan.hashnode.dev/)
--  #### 💬 Ask me about **React, Gatsby, UI/UX**
--  #### 📫 How to reach me: <a href="mailto:rahikhan360@gmail.com">Mail</a> | [Twitter](https://twitter.com/rahikhan_dev) | [Linkedin](https://www.linkedin.com/in/rahikhan/) | [Instagram](https://www.instagram.com/_rahikhan_)
--  #### ⚡ Fun fact **I stutter while talking**
--  #### 🥅 2021 Goals: Get a good grasp on **Gatsby**, **NextJS** and **Serverless Architechture(BaaS)**
+-  🔭 I’m currently(and _constantly_) working on **my Personal Website**
+-  🌱 I’m currently learning **Gatsby.js** and **Serverless Architechture(BaaS)**
+-  👊🏼 I’m looking to collaborate on **any frontend project**
+-  📝 I regularly write articles on [https://rahikhan.hashnode.dev/](https://rahikhan.hashnode.dev/)
+-  💬 Ask me about **React, Gatsby, UI/UX**
+-  📫 How to reach me: <a href="mailto:rahikhan360@gmail.com">Mail</a> | [Twitter](https://twitter.com/rahikhan_dev) | [Linkedin](https://www.linkedin.com/in/rahikhan/) | [Instagram](https://www.instagram.com/_rahikhan_)
+-  ⚡ Fun fact **I stutter while talking**
+-  🥅 2021 Goals: Get a good grasp on **Gatsby**, **NextJS** and **Serverless Architechture(BaaS)**
 
 ---
 
