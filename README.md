@@ -150,9 +150,7 @@ I am open for collaborations, so if you find my work interesting feel free to hi
 
 ### Github stats:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahi-khan&show_icons=true&locale=en&layout=compact&theme=radical" alt="rahi-khan" /></p>
-
-<br />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahi-khan&show_icons=true&locale=en&layout=compact&theme=radical" alt="rahi-khan" /></p>  
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=rahi-khan&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
