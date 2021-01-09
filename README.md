@@ -152,11 +152,13 @@ I am open for collaborations, so if you find my work interesting feel free to hi
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahi-khan&show_icons=true&locale=en&layout=compact&theme=radical" alt="rahi-khan" /></p>
 
+<br />
+
 [![My github stats](https://github-readme-stats.vercel.app/api?username=rahi-khan&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahi-khan&theme=radical" alt="rahi-khan" /></p>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rahikhan)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rahikhan&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [discord]: https://discord.com/users/316244785621106691
 [instagram]: https://www.instagram.com/_rahikhan_
