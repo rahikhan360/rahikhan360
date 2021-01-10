@@ -49,6 +49,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Day 4, 5, 6 - 100DaysOfCode 🤖🦾](https://rahikhan.hashnode.dev/day-4-5-6-100daysofcode)
 - [Day 3 - 100DaysOfCode 🤖🦾](https://rahikhan.hashnode.dev/day-3-100daysofcode)
 - [Day 2 - 100DaysOfCode 🤖🦾](https://rahikhan.hashnode.dev/day-2-100daysofcode)
 - [Day 1 - 100DaysOfCode 🤖🦾](https://rahikhan.hashnode.dev/day-1-100daysofcode)
