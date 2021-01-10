@@ -33,7 +33,7 @@
 [<img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />][git]
 [<img alt="Github" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white&style=for-the-badge" />][github]
 [<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" />][visual studio code]
-[<img alt="Figma" src="https://img.shields.io/badge/Figma%20CSS-F24E1E?logo=figma&logoColor=white&style=for-the-badge" />][figma]
+[<img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" />][figma]
 [<img alt="NPM" src="https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white&style=for-the-badge" />][npm]
 
 </p>
