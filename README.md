@@ -75,17 +75,17 @@ npx rahikhan
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-711-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-364538%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-385913%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 123 Contributions in the Year 2021
+> 🏆 126 Contributions in the Year 2021
  > 
 > 📦 78.4 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 55 Public Repositories 
+> 📜 56 Public Repositories 
  > 
 > 🔑 0 Private Repositories  
  > 
@@ -142,9 +142,9 @@ Windows                  20 hrs 3 mins       ███████████�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               16 repos            ████████████████░░░░░░░░░   64.0% 
-HTML                     6 repos             ██████░░░░░░░░░░░░░░░░░░░   24.0% 
-CSS                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.0%
+JavaScript               17 repos            ████████████████░░░░░░░░░   65.38% 
+HTML                     6 repos             █████░░░░░░░░░░░░░░░░░░░░   23.08% 
+CSS                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54%
 
 ```
 
