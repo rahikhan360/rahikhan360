@@ -59,11 +59,11 @@ npx rahikhan
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Create a simple NPX business card](https://rahikhan.hashnode.dev/create-a-simple-npx-business-card)
 - [Day 4, 5, 6 - 100DaysOfCode 🤖🦾](https://rahikhan.hashnode.dev/day-4-5-6-100daysofcode)
 - [Day 3 - 100DaysOfCode 🤖🦾](https://rahikhan.hashnode.dev/day-3-100daysofcode)
 - [Day 2 - 100DaysOfCode 🤖🦾](https://rahikhan.hashnode.dev/day-2-100daysofcode)
 - [Day 1 - 100DaysOfCode 🤖🦾](https://rahikhan.hashnode.dev/day-1-100daysofcode)
-- [100DaysOfCode challenge init 🚀](https://rahikhan.hashnode.dev/100daysofcode-challenge-init)
 <!-- BLOG-POST-LIST:END -->
 
 ---
