@@ -2,6 +2,16 @@
 
 <h2 align="center"> I am a self taught <strong>Front End Web Developer</strong> from Dhaka, Bangladesh. I do a lot of things, and some of them you may even find interesting. 👨‍💻</h2>
 
+#### 👇 Hit this in your terminal for a surprise
+
+```bash
+npx rahikhan
+```
+#### 👆 This CLI can be found at [rahi-khan/npx_card](https://github.com/rahi-khan/npx_card)
+#### Check out my [blog post](https://rahikhan.hashnode.dev/create-a-simple-npx-business-card) about this to create your own 🤟
+
+<br />
+
 ### What do I do?
 
 -  🔭 I’m currently(and _constantly_) working on **my Personal Website**
