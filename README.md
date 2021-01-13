@@ -73,7 +73,7 @@ npx rahikhan
 ---
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-711-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-724-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-387782%20lines%20of%20code-blue)
 
@@ -81,7 +81,7 @@ npx rahikhan
 
 > 🏆 136 Contributions in the Year 2021
  > 
-> 📦 83.2 kB Used in Github's Storage 
+> 📦 84.5 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
