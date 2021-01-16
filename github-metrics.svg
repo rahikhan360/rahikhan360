@@ -660,7 +660,7 @@
       </h2>
       <div class="field">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-        373 Commits
+        374 Commits
       </div>
       <div class="field">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/></svg>
@@ -739,7 +739,7 @@
             <div class="field ">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/></svg>
               
-                568k added, 12.3k removed
+                545k added, 11.7k removed
               
             </div>
         
@@ -838,13 +838,13 @@
         </mask>
         <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
         
-          <rect mask="url(#languages-bar)" x="0" y="0" width="410.31108427101304" height="8" fill="#563d7c"/>
+          <rect mask="url(#languages-bar)" x="0" y="0" width="410.18001087176646" height="8" fill="#563d7c"/>
         
-          <rect mask="url(#languages-bar)" x="410.31108427101304" y="0" width="32.53713348179263" height="8" fill="#f1e05a"/>
+          <rect mask="url(#languages-bar)" x="410.18001087176646" y="0" width="32.673870455441744" height="8" fill="#f1e05a"/>
         
-          <rect mask="url(#languages-bar)" x="442.8482177528057" y="0" width="10.665092085490546" height="8" fill="#e34c26"/>
+          <rect mask="url(#languages-bar)" x="442.8538813272082" y="0" width="10.661570437322135" height="8" fill="#e34c26"/>
         
-          <rect mask="url(#languages-bar)" x="453.5133098382962" y="0" width="6.4866901617037716" height="8" fill="#c6538c"/>
+          <rect mask="url(#languages-bar)" x="453.5154517645304" y="0" width="6.484548235469671" height="8" fill="#c6538c"/>
         
       </svg>
       <div class="field center horizontal-wrap fill-width">
@@ -894,7 +894,7 @@
               <li>Use spaces for indents</li>
             
             
-              <li>Mostly push code around 02:00</li>
+              <li>Mostly push code around 05:00</li>
             
             
               <li>Mostly active on saturday</li>
@@ -924,8 +924,8 @@
             </div>
           
             <div class="entry">
-              <span class="value">14</span>
-              <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+              <span class="value">8</span>
+              <div class="bar" style="height: 28.57142857142857px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
               02
             </div>
           
@@ -942,8 +942,8 @@
             </div>
           
             <div class="entry">
-              <span class="value">8</span>
-              <div class="bar" style="height: 28.57142857142857px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+              <span class="value">14</span>
+              <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
               05
             </div>
           
@@ -1066,8 +1066,8 @@
           <div class="chart-bars">
             
               <div class="entry">
-                <span class="value">22</span>
-                <div class="bar" style="height: 13.414634146341465px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                <span class="value">28</span>
+                <div class="bar" style="height: 17.073170731707318px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                 Sun
               </div>
             
@@ -1096,8 +1096,8 @@
               </div>
             
               <div class="entry">
-                <span class="value">80</span>
-                <div class="bar" style="height: 48.78048780487805px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                <span class="value">74</span>
+                <div class="bar" style="height: 45.1219512195122px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                 Fri
               </div>
             
@@ -1117,13 +1117,13 @@
             
               <div class="entry">
                 <span class="name">JavaScript</span>
-                <div class="bar" style="width: 79.048%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                <div class="bar" style="width: 79.144%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                 <span class="value">99%</span>
               </div>
             
               <div class="entry">
                 <span class="name">CSS</span>
-                <div class="bar" style="width: 0.952%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                <div class="bar" style="width: 0.8560000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                 <span class="value">1%</span>
               </div>
             
@@ -2178,6 +2178,105 @@
                     
                     
                       <div class="commit">
+                        <div class="sha">#a8daa82</div>
+                        <div class="message">Updated with Dev Metrics</div>
+                      </div>
+                    
+                  </div>
+                
+                
+                
+                
+              </section>
+            </div>
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                  <div class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
+                    Pushed 1 commit in <div class="repo">rahi-khan/rahi-khan</div>
+                  </div>
+                  <div class="details">
+                    
+                      <div>on branch <div class="code">master</div></div>
+                    
+                    
+                      <div class="commit">
+                        <div class="sha">#bded176</div>
+                        <div class="message">Charts Updated</div>
+                      </div>
+                    
+                  </div>
+                
+                
+                
+                
+              </section>
+            </div>
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                  <div class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
+                    Pushed 1 commit in <div class="repo">rahi-khan/Gatsby_Tailwind_Template_Pro</div>
+                  </div>
+                  <div class="details">
+                    
+                      <div>on branch <div class="code">main</div></div>
+                    
+                    
+                      <div class="commit">
+                        <div class="sha">#d725142</div>
+                        <div class="message">home page layout completed</div>
+                      </div>
+                    
+                  </div>
+                
+                
+                
+                
+              </section>
+            </div>
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                  <div class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
+                    Pushed 1 commit in <div class="repo">rahi-khan/rahi-khan</div>
+                  </div>
+                  <div class="details">
+                    
+                      <div>on branch <div class="code">master</div></div>
+                    
+                    
+                      <div class="commit">
                         <div class="sha">#a93d73f</div>
                         <div class="message">Updated with Dev Metrics</div>
                       </div>
@@ -2223,105 +2322,6 @@
               </section>
             </div>
           
-            <div class="row fill-width">
-              <section class="activity">
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                  <div class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-                    Pushed 1 commit in <div class="repo">rahi-khan/rahi-khan</div>
-                  </div>
-                  <div class="details">
-                    
-                      <div>on branch <div class="code">master</div></div>
-                    
-                    
-                      <div class="commit">
-                        <div class="sha">#6557b90</div>
-                        <div class="message">Updated with Dev Metrics</div>
-                      </div>
-                    
-                  </div>
-                
-                
-                
-                
-              </section>
-            </div>
-          
-            <div class="row fill-width">
-              <section class="activity">
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                  <div class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-                    Pushed 1 commit in <div class="repo">rahi-khan/rahi-khan</div>
-                  </div>
-                  <div class="details">
-                    
-                      <div>on branch <div class="code">master</div></div>
-                    
-                    
-                      <div class="commit">
-                        <div class="sha">#b984f84</div>
-                        <div class="message">Charts Updated</div>
-                      </div>
-                    
-                  </div>
-                
-                
-                
-                
-              </section>
-            </div>
-          
-            <div class="row fill-width">
-              <section class="activity">
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                  <div class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-                    Pushed 1 commit in <div class="repo">rahi-khan/Gatsby_Bootstrap_Template_Pro</div>
-                  </div>
-                  <div class="details">
-                    
-                      <div>on branch <div class="code">main</div></div>
-                    
-                    
-                      <div class="commit">
-                        <div class="sha">#f34c7d9</div>
-                        <div class="message">contact margin adjustments</div>
-                      </div>
-                    
-                  </div>
-                
-                
-                
-                
-              </section>
-            </div>
-          
         
       </section>
     </div>
@@ -2332,7 +2332,7 @@
       
         <footer>
           <span>These metrics include private contributions, timezone Asia/Dhaka</span>
-          <span>Last updated Sat, 16 Jan 2021 23:10:29 GMT with lowlighter/metrics@3.2.0</span>
+          <span>Last updated Sat, 16 Jan 2021 23:53:13 GMT with lowlighter/metrics@3.2.0</span>
         </footer>
       
       <div id="metrics-end"></div>
