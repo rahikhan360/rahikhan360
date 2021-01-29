@@ -74,19 +74,19 @@ npx rahikhan
 ---
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-23-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-454706%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-454709%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 201 Contributions in the Year 2021
+> 🏆 199 Contributions in the Year 2021
  > 
 > 📦 106.5 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 58 Public Repositories 
+> 📜 57 Public Repositories 
  > 
 > 🔑 0 Private Repositories  
  > 
