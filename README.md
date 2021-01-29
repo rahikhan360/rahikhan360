@@ -1,6 +1,7 @@
 <h1 align="center"> Hey there, I'm Rahi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> </h1>
 
 <h2 align="center"> I am a self taught <strong>Front End Web Developer</strong> from Dhaka, Bangladesh. I do a lot of things, and some of them you may even find interesting. 👨‍💻</h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 #### 👇 Hit this in your terminal for a surprise
 
@@ -12,7 +13,7 @@ npx rahikhan
 
 <br />
 
-### What do I do?
+### <img src="https://camo.githubusercontent.com/be37cdc8f930300096c506ad4574eaae977c48fbb2705cfcb92f4eeab8282c7a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966" width="50">What do I do?
 
 -  🔭 I’m currently(and _constantly_) working on **my Personal Website**
 -  🌱 I’m currently learning **Gatsby.js** and **Serverless Architechture(BaaS)**
@@ -81,11 +82,11 @@ npx rahikhan
 
 > 🏆 199 Contributions in the Year 2021
  > 
-> 📦 106.5 kB Used in Github's Storage 
+> 📦 105.6 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 58 Public Repositories 
+> 📜 57 Public Repositories 
  > 
 > 🔑 0 Private Repositories  
  > 
