@@ -82,7 +82,7 @@ npx rahikhan
 
 > 🏆 217 Contributions in the Year 2021
  > 
-> 📦 112.0 kB Used in Github's Storage 
+> 📦 112.6 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
