@@ -80,7 +80,7 @@ npx rahikhan
 
 **🐱 My Github Data** 
 
-> 🏆 218 Contributions in the Year 2021
+> 🏆 217 Contributions in the Year 2021
  > 
 > 📦 112.2 kB Used in Github's Storage 
  > 
