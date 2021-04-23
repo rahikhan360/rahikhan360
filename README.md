@@ -82,7 +82,7 @@ npx rahikhan
 
 > 🏆 231 Contributions in the Year 2021
  > 
-> 📦 112.9 kB Used in Github's Storage 
+> 📦 113.9 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -119,16 +119,18 @@ Sunday       59 commits     ███████░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   40 mins             ███████████████████████░░   91.85% 
+JSON                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   8.15%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  44 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          44 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    37 mins             █████████████████████░░░░   85.48% 
+Windows                  6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   14.52%
 
 ```
 
