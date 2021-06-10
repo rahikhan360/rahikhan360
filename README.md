@@ -88,7 +88,7 @@ npx rahikhan
  > 
 > 📜 57 Public Repositories 
  > 
-> 🔑 1 Private Repository 
+> 🔑 0 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
