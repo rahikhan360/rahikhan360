@@ -76,7 +76,7 @@ npx rahikhan
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-592453%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-592579%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -145,9 +145,10 @@ Linux                    1 hr 6 mins         ████░░░░░░░�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               19 repos            ███████████████░░░░░░░░░░   63.33% 
-HTML                     8 repos             ██████░░░░░░░░░░░░░░░░░░░   26.67% 
-CSS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0%
+JavaScript               19 repos            ███████████████░░░░░░░░░░   61.29% 
+HTML                     8 repos             ██████░░░░░░░░░░░░░░░░░░░   25.81% 
+CSS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.68% 
+Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.23%
 
 ```
 
