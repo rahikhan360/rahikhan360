@@ -82,7 +82,7 @@ npx rahikhan
 
 > 🏆 274 Contributions in the Year 2021
  > 
-> 📦 125.6 kB Used in Github's Storage 
+> 📦 126.4 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -158,7 +158,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/rahi-khan/rahi-khan/master/charts/bar_graph.png) 
 
 
- Last Updated on 26/06/2021
+ Last Updated on 27/06/2021
 <!--END_SECTION:waka-->
 
 ---
