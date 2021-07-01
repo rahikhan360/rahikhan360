@@ -82,7 +82,7 @@ npx rahikhan
 
 > 🏆 278 Contributions in the Year 2021
  > 
-> 📦 119.1 kB Used in Github's Storage 
+> 📦 119.9 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -154,7 +154,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/rahi-khan/rahi-khan/master/charts/bar_graph.png) 
 
 
- Last Updated on 30/06/2021
+ Last Updated on 01/07/2021
 <!--END_SECTION:waka-->
 
 ---
