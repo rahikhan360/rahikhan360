@@ -1473,8 +1473,8 @@
               00
             </div>
                     <div class="entry">
-              <span class="value">7</span>
-              <div class="bar" style="height: 21.875px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+              <span class="value">8</span>
+              <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
               01
             </div>
                     <div class="entry">
@@ -1533,8 +1533,8 @@
               12
             </div>
                     <div class="entry">
-              <span class="value">5</span>
-              <div class="bar" style="height: 15.625px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+              <span class="value">4</span>
+              <div class="bar" style="height: 12.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
               13
             </div>
                     <div class="entry">
@@ -1604,8 +1604,8 @@
                 Mon
               </div>
                         <div class="entry">
-                <span class="value">5</span>
-                <div class="bar" style="height: 2.7472527472527473px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                <span class="value">6</span>
+                <div class="bar" style="height: 3.296703296703297px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                 Tue
               </div>
                         <div class="entry">
@@ -1624,8 +1624,8 @@
                 Fri
               </div>
                         <div class="entry">
-                <span class="value">35</span>
-                <div class="bar" style="height: 19.230769230769234px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                <span class="value">34</span>
+                <div class="bar" style="height: 18.681318681318682px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                 Sat
               </div>
                     </div>
@@ -2687,6 +2687,25 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
+                                        <span class="sha">#8862cef</span>
+                                        <span class="message">Charts Updated</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">rahi-khan/rahi-khan</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
                                         <span class="sha">#c11fdbf</span>
                                         <span class="message">Charts Updated</span>
                                     </div>
@@ -2750,31 +2769,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">rahi-khan/rahi-khan</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#8ca9c4c</span>
-                                        <span class="message">Charts Updated</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated Tue, 06 Jul 2021 01:35:35 (timezone Asia/Dhaka) with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Tue, 06 Jul 2021 01:46:19 (timezone Asia/Dhaka) with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
