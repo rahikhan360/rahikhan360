@@ -82,7 +82,7 @@ npx rahikhan
 
 > 🏆 266 Contributions in the Year 2021
  > 
-> 📦 133.3 kB Used in Github's Storage 
+> 📦 133.9 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -147,7 +147,7 @@ CSS                      3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/rahi-khan/rahi-khan/master/charts/bar_graph.png) 
 
 
- Last Updated on 20/07/2021
+ Last Updated on 21/07/2021
 <!--END_SECTION:waka-->
 
 ---
